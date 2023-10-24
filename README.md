@@ -1,6 +1,5 @@
-# Project Name 
-Short description of project.
-
+# ART - Automated RNA-sequencing Tool
+ART is a biostatistics tool that automates the RNA-sequencing pipeline, allowing a researcher with minimal experience in data science, coding, and biostatistics to analyze and visualize bulk RNA-sequencing data. 
 Project Notes:
 
 - Please remember to keep your repo private when you create it from this template.
@@ -15,7 +14,7 @@ Project Notes:
 ## Project PI/Project Team 
 **Due October 26, 11:59pm**
 
-Name, Vandy email, VUNetID, Role
+Gian Luca Lupica-Tondo, gian.luca.lupica-tondo@vanderbilt.edu, lupicag, PI
 
 ## Project Proposal 
 **Due October 26, 11:59pm**
