@@ -52,7 +52,7 @@ Reduce the time and costs associated with RNA-seq data analysis by providing an 
 ## Project Metrics 
 
 ### Metric 1
-Time Efficiency: Measure the time it takes for ART to process and visualize a standard RNA-sequencing dataset and compare it to the average time taken by a biostatistician. The tool should reduce the analysis time by at least 50%. 
+Time Efficiency: Measure the time it takes for ART to process and visualize a standard RNA-sequencing dataset and compare it to the average time taken by a biostatistician. The tool should reduce the analysis time by at least 50%.   
   A: Reduces analysis time by 60% or more compared to a biostatistician.  
   B: Reduces analysis time by 50-59% compared to a biostatistician.  
   C: Reduces analysis time by 40-49% compared to a biostatistician.  
