@@ -5,6 +5,8 @@ ART is a biostatistics tool that automates the RNA-sequencing pipeline, allowing
 
 ### Link to video explanation:
 
+### Link to customGPT used to help build ART: https://chat.openai.com/g/g-1SUdZMfvW-rna-wizard
+
 ### Instructions for running ART
 #### *Setting Up and Running the ART_gradio Application Locally*
 
