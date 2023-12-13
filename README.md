@@ -1,6 +1,77 @@
 # ART - Automated RNA-sequencing Tool
 ART is a biostatistics tool that automates the RNA-sequencing pipeline, allowing a researcher with minimal experience in data science, coding, and biostatistics to analyze and visualize bulk RNA-sequencing data. 
 
+## Usage of AI Assistant
+
+### Link to video explanation:
+
+### Instructions for running ART
+#### *Setting Up and Running the ART_gradio Application Locally*
+
+##### Prerequisites
+
+Before you begin, ensure the following are installed on your machine:
+
+- Python
+- R
+
+##### Step 1: Install the ART_gradio Folder
+
+1. Download the `ART_gradio` folder onto your device.
+
+##### Step 2: Download Required Index Files
+
+1. In the `ART_gradio` folder, find the file named `index_files`.
+2. This file contains links to `mouse_index` and `human_index` folders.
+3. Download these folders and add them to the `ART_gradio` directory.
+
+##### Step 3: Install R and Required Packages
+
+1. Install R on your machine, if not already installed.
+2. Install the necessary R packages with the following commands in R:
+
+    ```r
+    install.packages("BiocManager")
+    BiocManager::install("DESeq2")
+    BiocManager::install("tximport")
+    install.packages("stringr")
+    ```
+
+##### Step 4: Install and Set Up Salmon for Quantification
+
+1. Install Bioconda on your device.
+2. For new MacBooks with Apple Silicon:
+
+    - Activate the 'rosetta' environment using:
+
+        ```bash
+        conda activate rosetta
+        ```
+
+    - Then, install Salmon with the command:
+
+        ```bash
+        conda install salmon
+        ```
+
+    - For other systems, install Salmon directly without the 'rosetta' activation.
+
+##### Step 5: Access Sample Data
+
+1. Visit the ART GitHub repository.
+2. Download the `sampleData` file for sample runs.
+
+###### Step 6: Run the Python Script and Launch the Web Application
+
+1. Navigate to the `ART_gradio` folder in your command line interface.
+2. Run the Python script to start the application (e.g., `python run_app.py`).
+3. The web application will be accessible once the script is running successfully.
+
+###### Additional Notes
+
+- Ensure you are in the correct environment before running the Python script, especially on Apple Silicon MacBooks.
+- If you encounter any issues, refer to the application's documentation or troubleshooting guide for assistance.
+
 ## Project PI/Project Team 
 Gian Luca Lupica-Tondo, gian.luca.lupica-tondo@vanderbilt.edu, lupicag, PI
 
