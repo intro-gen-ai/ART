@@ -61,13 +61,13 @@ Before you begin, ensure the following are installed on your machine:
 1. Visit the ART GitHub repository.
 2. Download the `sampleData` file for sample runs.
 
-###### Step 6: Run the Python Script and Launch the Web Application
+##### Step 6: Run the Python Script and Launch the Web Application
 
 1. Navigate to the `ART_gradio` folder in your command line interface.
 2. Run the Python script to start the application (e.g., `python run_app.py`).
 3. The web application will be accessible once the script is running successfully.
 
-###### Additional Notes
+##### Additional Notes
 
 - Ensure you are in the correct environment before running the Python script, especially on Apple Silicon MacBooks.
 - If you encounter any issues, refer to the application's documentation or troubleshooting guide for assistance.
