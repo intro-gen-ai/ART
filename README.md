@@ -3,7 +3,7 @@ ART is a biostatistics tool that automates the RNA-sequencing pipeline, allowing
 
 ## Usage of AI Assistant
 
-### Link to video explanation: https://vanderbilt.box.com/s/89gsihqaz1k7nxsbhhvbhuge8xhpj1tg
+### Link to video explanation: https://drive.google.com/file/d/1VXbFVz1PO_9Q_HGNQnleegGaxbA5Fs62/view?usp=sharing
 
 ### Link to customGPT used to help build ART: https://chat.openai.com/g/g-1SUdZMfvW-rna-wizard
 
